@@ -1,2 +1,1 @@
-just https://github.com/MathiasFar/tables but in cpp
-bitch
+A simple library for quickly creating ascii tables
